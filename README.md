@@ -10,7 +10,7 @@
    - `background.jpg` — ваш фоновый рисунок.
    - `button-icon.png` — ваша картинка-кнопка.
    - `sound.mp3` — аудиофайл (в формате .mp3).
-2. Измените URL для редиректа в файле `script.js`.
+2. готово.
 
 ---
 
@@ -22,7 +22,7 @@ This project is a template for an NFC-triggered landing page or prank site. When
    - `background.jpg` — your background image.
    - `button-icon.png` — your button image.
    - `sound.mp3` — your audio file (in .mp3 format).
-2. Change the redirect URL in `script.js`.
+2. ready.
 
 ---
 *Created for personal projects and fun.*
