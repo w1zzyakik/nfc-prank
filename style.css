@@ -26,6 +26,6 @@ body, html {
 }
 
 .nfc-button img {
-    width: 150px;
+    width: 300px;
     pointer-events: none;
 }
